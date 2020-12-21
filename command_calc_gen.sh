@@ -1,7 +1,5 @@
 #!/bin/bash
 
-#echo "PID: $1"
-
 while true; do
 	read line
 	case "$line" in
