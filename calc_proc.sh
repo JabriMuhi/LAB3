@@ -2,7 +2,6 @@
 
 cur=1
 mode="+"
-#echo $mode > pipe0
 
 tail -f pipe0 |
 while true; do
